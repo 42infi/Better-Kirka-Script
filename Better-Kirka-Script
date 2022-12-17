@@ -1,4 +1,1 @@
-window.location.href = "https://cdn.discordapp.com/attachments/738010330780926004/1052689073485131776/Screenshot_1.png";
-setInterval(()=>{
-    if(window.location.href.includes("kirka.io")) document.write(' ');
-}, 100);
+alert("bks is not supported anymore but other operating systems will be supported in the future by the client");
